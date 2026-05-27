@@ -1,4 +1,5 @@
-# SkyCast — Weather Forecast Application
+# SkyCast — Weather Forecast Application ☁️
+
 SkyCast is a modern weather forecasting web application that provides real-time weather updates, hourly forecasts, wind speed, humidity, rain probability, and dynamic weather visualization.
 ## Features
 - Real-time weather information
@@ -16,16 +17,14 @@ SkyCast is a modern weather forecasting web application that provides real-time 
 - JavaScript
 - Chart.js
 - OpenWeather API
-## Screenshots
-Add screenshots here after deployment.
+- Vercel
 ## Live Demo
-Coming Soon
+https://skycast-eight-rho.vercel.app/
 ## Installation
-1. Clone the repository
+Clone the repository
 ```bash
 git clone https://github.com/21mohit-dotcom/skycast.git
 ```
-2. Open the project folder
-3. Run using Live Server in VS Code
+Open the project folder and run using Live Server in VS Code.
 ## Author
 Mohit Sharma
