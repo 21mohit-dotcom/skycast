@@ -109,7 +109,7 @@ async function getWeather(location) {
     loader.classList.add('show');
     
     try {
-        const key = "C62FW4862G8P72BN3M2JBPMWG";
+        const key = "G99GY4VJVS3DYUGXXQSW4Y7BM";
         
         const today = new Date();
         const yesterday = new Date();
